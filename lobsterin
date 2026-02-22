@@ -1,0 +1,10 @@
+COHPstartEnergy  -10
+COHPendEnergy	  10
+usebasisset pbeVaspFit2015
+basisfunctions B 2s 2p
+basisfunctions N 2s 2p
+
+cohpbetween atom 1 and atom 12
+cohpbetween atom 5 and atom 12
+cohpbetween atom 5 and atom 10
+cohpbetween atom 2 and atom 10
